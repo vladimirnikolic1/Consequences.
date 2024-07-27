@@ -56,7 +56,6 @@
     <string>N</string>
     <string>O</string>
     <string>P</string>
-    <string>Q.001</string>
     <string>R</string>
     <string>S</string>
     <string>T</string>
@@ -93,8 +92,6 @@
     <string>t</string>
     <string>u</string>
     <string>v</string>
-    <string>w</string>
-    <string>z</string>
     <string>braceleft</string>
     <string>bar</string>
     <string>braceright</string>
@@ -186,6 +183,7 @@
     <string>uacute</string>
     <string>ucircumflex</string>
     <string>udieresis</string>
+    <string>yacute</string>
     <string>thorn</string>
     <string>ydieresis</string>
     <string>Amacron</string>
@@ -295,11 +293,7 @@
     <string>Ycircumflex</string>
     <string>ycircumflex</string>
     <string>Ydieresis</string>
-    <string>Zacute</string>
     <string>zacute</string>
-    <string>Zdotaccent</string>
-    <string>zdotaccent</string>
-    <string>Zcaron</string>
     <string>zcaron</string>
     <string>florin</string>
     <string>uni021A</string>
@@ -351,12 +345,17 @@
     <string>notequal</string>
     <string>lessequal</string>
     <string>greaterequal</string>
-    <string>Q</string>
-    <string>x</string>
+    <string>w</string>
     <string>y</string>
-    <string>q</string>
-    <string>yacute</string>
+    <string>z</string>
+    <string>x</string>
     <string>Yacute</string>
+    <string>Zdotaccent</string>
+    <string>zdotaccent</string>
+    <string>Zacute</string>
+    <string>Zcaron</string>
+    <string>Q</string>
+    <string>q</string>
   </array>
 </dict>
 </plist>
