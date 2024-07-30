@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <advance width="644"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="599" y="123" type="line"/>
+      <point x="599" y="0" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="26" y="697" type="line"/>
+      <point x="354" y="697" type="line"/>
+      <point x="354" y="123" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="358" type="qcurve" smooth="yes"/>
+      <point x="426" y="400"/>
+      <point x="481" y="456"/>
+      <point x="523" y="456" type="qcurve" smooth="yes"/>
+      <point x="565" y="456"/>
+      <point x="621" y="400"/>
+      <point x="621" y="358" type="qcurve" smooth="yes"/>
+      <point x="621" y="316"/>
+      <point x="565" y="261"/>
+      <point x="523" y="261" type="qcurve" smooth="yes"/>
+      <point x="481" y="261"/>
+      <point x="426" y="316"/>
+    </contour>
+  </outline>
+</glyph>
