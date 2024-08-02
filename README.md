@@ -1,6 +1,6 @@
 # Consequences
 ![Image](documentation/image1.png)
-Consequences are unwanted or unpleasant effect. Also they are something that follows a cause as a result.
+Consequences are unwanted or unpleasant effects. Also they are something that follows a cause as a results.
 
 ## Variable Font Axe
 
